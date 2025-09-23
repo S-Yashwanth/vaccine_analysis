@@ -1,5 +1,5 @@
 # vaccine_analysis
 ## Number of Doses Across Age Groups
-![map](https://s-yashwanth.github.io/vaccine_analysis/)
+![map](html.png)
 ## Dose %
 ![Output](output.png)
